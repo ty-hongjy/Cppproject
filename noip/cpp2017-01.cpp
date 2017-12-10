@@ -17,7 +17,7 @@ int func(int a,int b,int c,int d){
 int main()
 {
 	int i;
-	cout<<"hello world"<<endl<<endl;
+	cout<<"Begin"<<endl<<endl;
 	
 	puts("start\n");
 	for(i=1;i<=101;i++){
